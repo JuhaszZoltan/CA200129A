@@ -1,0 +1,173 @@
+2005;Civilization IV;Turn-based strategy;2K Games;PC
+2007;BioShock;First-person shooter;2K Games;PC,Xbox 360
+1984;Elite;Space simulation;Acornsoft;BBC Micro
+1982;Pitfall!;Platform;Activision;Atari 2600
+1997;Quake II;First-person shooter;Activision;PC
+2000;Tony Hawk's Pro Skater 2;Sports;Activision;PlayStation
+2007;Call of Duty 4: Modern Warfare;First-person shooter;Activision;PC,PlayStation 3,Xbox 360
+1992;Wolfenstein 3D;First-person shooter;Apogee Software;PC
+1972;Pong;Sports;Atari;Arcade
+1979;Asteroids;Shoot 'em up;Atari;Arcade
+1985;Gauntlet;Action role-playing;Atari;Arcade
+2008;Shin Megami Tensei: Persona 4;Role-playing;Atlus;PlayStation 2
+2006;The Elder Scrolls IV: Oblivion;Role-playing;Bethesda Softworks;PC,Xbox 360
+2008;Fallout 3;Action role-playing;Bethesda Softworks;PC,PlayStation 3,Xbox 360
+2011;The Elder Scrolls V: Skyrim;Action role-playing;Bethesda Softworks;PC,PlayStation 3,Xbox 360
+2000;Baldur's Gate II: Shadows of Amn;Role-playing;Black Isle Studios;PC
+1995;Warcraft II: Tides of Darkness;Real-time strategy;Blizzard Entertainment;PC
+1998;StarCraft;Real-time strategy;Blizzard Entertainment;PC
+2000;Diablo II;Action role-playing;Blizzard Entertainment;PC
+2004;World of Warcraft;MMORPG;Blizzard Entertainment;PC
+1989;Prince of Persia;Platform;Broderbund;Apple II
+1993;Myst;Adventure;Broderbund;Macintosh
+1988;Mega Man 2;Platform;Capcom;NES
+1991;Street Fighter II;Fighting;Capcom;Arcade
+1996;Resident Evil;Survival horror;Capcom;PlayStation
+1998;Resident Evil 2;Survival horror;Capcom;PlayStation
+2005;Devil May Cry 3: Dante's Awakening;Action-adventure;Capcom;PlayStation 2
+2005;Resident Evil 4;Survival horror;Capcom;GameCube
+2006;Ōkami;Action-adventure;Capcom;PlayStation 2
+2015;The Witcher 3: Wild Hunt;Action role-playing;CD Projekt;PC,PlayStation 4,Xbox One
+2008;Spelunky;Platform;Derek Yu;PC
+1996;Tomb Raider;Action-adventure;Eidos Interactive;Sega Saturn
+1998;Thief: The Dark Project;Stealth;Eidos Interactive;PC
+2000;Deus Ex;Action role-playing;Eidos Interactive;PC
+1997;Ultima Online;MMORPG;Electronic Arts;PC
+1999;System Shock 2;First-person shooter;Electronic Arts;PC
+2000;The Sims;Life simulation;Electronic Arts;PC
+2004;Burnout 3: Takedown;Racing;Electronic Arts;PlayStation 2,Xbox
+2008;Dead Space;Survival horror;Electronic Arts;PlayStation 3,Xbox 360
+2010;Mass Effect 2;Action role-playing;Electronic Arts;PC,Xbox 360
+2012;Mass Effect 3;Action role-playing;Electronic Arts;PC,PlayStation 3,Xbox 360
+2001;Max Payne;Third-person shooter;Gathering of Developers;PC
+1996;Quake;First-person shooter;GT Interactive;PC
+1993;Doom;First-person shooter;id Software;PC
+1977;Zork;Adventure;Infocom;PDP-10
+1999;Planescape: Torment;Role-playing;Interplay Entertainment;PC
+1987;R-Type;Shoot 'em up;Irem;Arcade
+1987;Contra;Run and gun;Konami;Arcade
+1997;Castlevania: Symphony of the Night;Action-adventure;Konami;PlayStation
+1998;Dance Dance Revolution;Rhythm;Konami;Arcade
+1998;Metal Gear Solid;Stealth;Konami;PlayStation
+1999;Silent Hill;Survival horror;Konami;PlayStation
+2001;Metal Gear Solid 2: Sons of Liberty;Stealth;Konami;PlayStation 2
+2001;Silent Hill 2;Survival horror;Konami;PlayStation 2
+2004;Metal Gear Solid 3: Snake Eater;Stealth;Konami;PlayStation 2
+1990;The Secret of Monkey Island;Adventure;LucasArts;PC
+1991;Monkey Island 2: LeChuck's Revenge;Adventure;LucasArts;PC
+1993;Day of the Tentacle;Adventure;LucasArts;PC
+1993;Sam & Max Hit the Road;Adventure;LucasArts;PC
+1994;Star Wars: TIE Fighter;Space simulation;LucasArts;PC
+1997;Star Wars Jedi Knight: Dark Forces II;First-person shooter;LucasArts;PC
+1998;Grim Fandango;Adventure;LucasArts;PC
+2003;Star Wars: Knights of the Old Republic;Role-playing;LucasArts;Xbox
+1989;SimCity;City-building;Maxis;Macintosh
+1993;SimCity 2000;City-building;Maxis;Macintosh
+1994;UFO: Enemy Unknown;Turn-based strategy;MicroProse;PC
+1996;Civilization II;Turn-based strategy;MicroProse;PC
+1999;Age of Empires II: The Age of Kings;Real-time strategy;Microsoft Game Studios;PC
+2001;Halo: Combat Evolved;First-person shooter;Microsoft Game Studios;Xbox
+2006;Gears of War;Third-person shooter;Microsoft Game Studios;Xbox 360
+2007;Halo 3;First-person shooter;Microsoft Game Studios;Xbox 360
+2008;Braid;Platform;Microsoft Game Studios;Xbox 360
+2010;Limbo;Platform;Microsoft Game Studios;Xbox 360
+1982;Ms. Pac-Man;Maze;Midway;Arcade
+1993;Mortal Kombat II;Fighting;Midway;Arcade
+1993;NBA Jam;Sports;Midway;Arcade
+2011;Minecraft;Sandbox;Mojang;PC
+2010;Rock Band 3;Rhythm;MTV Games;PlayStation 3,Xbox 360,Wii,Nintendo DS
+1980;Pac-Man;Maze;Namco;Arcade
+1981;Galaga;Shoot 'em up;Namco;Arcade
+1997;Tekken 3;Fighting;Namco;Arcade
+1998;SoulCalibur;Fighting;Namco;Arcade
+2004;Katamari Damacy;Action;Namco;PlayStation 2
+2011;Dark Souls;Action role-playing;Namco Bandai Games;PlayStation 3,Xbox 360
+1981;Donkey Kong;Platform;Nintendo;Arcade
+1985;Super Mario Bros.;Platform;Nintendo;NES
+1986;The Legend of Zelda;Action-adventure;Nintendo;NES
+1987;Mike Tyson's Punch-Out!!;Sports;Nintendo;NES
+1988;Super Mario Bros. 3;Platform;Nintendo;NES
+1990;Super Mario World;Platform;Nintendo;Super NES
+1991;The Legend of Zelda: A Link to the Past;Action-adventure;Nintendo;Super NES
+1992;Super Mario Kart;Kart racing;Nintendo;Super NES
+1993;The Legend of Zelda: Link's Awakening;Action-adventure;Nintendo;Game Boy
+1994;Donkey Kong Country;Platform;Nintendo;Super NES
+1994;EarthBound;Role-playing;Nintendo;Super NES
+1994;Super Metroid;Action-adventure;Nintendo;Super NES
+1995;Yoshi's Island;Platform;Nintendo;Super NES
+1996;Pokémon Red and Blue;Role-playing;Nintendo;Game Boy
+1996;Super Mario 64;Platform;Nintendo;Nintendo 64
+1997;GoldenEye 007;First-person shooter;Nintendo;Nintendo 64
+1997;Star Fox 64;Shoot 'em up;Nintendo;Nintendo 64
+1998;The Legend of Zelda: Ocarina of Time;Action-adventure;Nintendo;Nintendo 64
+2000;The Legend of Zelda: Majora's Mask;Action-adventure;Nintendo;Nintendo 64
+2001;Advance Wars;Turn-based tactics;Nintendo;Game Boy Advance
+2001;Animal Crossing;Life simulation;Nintendo;Nintendo 64
+2001;Super Smash Bros. Melee;Fighting;Nintendo;GameCube
+2002;The Legend of Zelda: The Wind Waker;Action-adventure;Nintendo;GameCube
+2002;Metroid Prime;Action-adventure;Nintendo;GameCube
+2003;WarioWare,Inc.: Mega Microgames!;Action;Nintendo;Game Boy Advance
+2006;Wii Sports;Sports;Nintendo;Wii
+2007;Super Mario Galaxy;Platform;Nintendo;Wii
+2010;Super Mario Galaxy 2;Platform;Nintendo;Wii
+2012;Fire Emblem: Awakening;Turn-based strategy;Nintendo;Nintendo 3DS
+1991;Lemmings;Puzzle;Psygnosis;Amiga
+1995;Wipeout;Racing;Psygnosis;PlayStation
+2005;Guitar Hero;Rhythm;RedOctane;PlayStation 2
+2001;Grand Theft Auto III;Action-adventure;Rockstar Games;PlayStation 2
+2002;Grand Theft Auto: Vice City;Action-adventure;Rockstar Games;PlayStation 2
+2004;Grand Theft Auto: San Andreas;Action-adventure;Rockstar Games;PlayStation 2
+2008;Grand Theft Auto IV;Action-adventure;Rockstar Games;PlayStation 3,Xbox 360
+2010;Red Dead Redemption;Action-adventure;Rockstar Games;PlayStation 3,Xbox 360
+2013;Grand Theft Auto V;Action-adventure;Rockstar Games;PlayStation 3,Xbox 360
+1981;Frogger;Action;Sega;Arcade
+1991;Sonic the Hedgehog;Platform;Sega;Sega Genesis
+1992;Sonic the Hedgehog 2;Platform;Sega;Sega Genesis
+1993;Daytona USA;Racing;Sega;Arcade
+1993;Phantasy Star IV;Role-playing;Sega;Sega Genesis
+1996;Nights into Dreams...;Action;Sega;Sega Saturn
+1998;Panzer Dragoon Saga;Role-playing;Sega;Sega Saturn
+1999;Shenmue;Adventure;Sega;Dreamcast
+2000;Jet Set Radio;Platform;Sega;Dreamcast
+2001;Rez;Shoot 'em up;Sega;Dreamcast
+1998;Half-Life;First-person shooter;Sierra Studios;PC
+1999;Homeworld;Real-time strategy;Sierra Studios;PC
+1997;Gran Turismo;Racing;Sony Computer Entertainment;PlayStation
+2001;Gran Turismo 3: A-Spec;Racing;Sony Computer Entertainment;PlayStation 2
+2001;Ico;Action-adventure;Sony Computer Entertainment;PlayStation 2
+2005;God of War;Action-adventure;Sony Computer Entertainment;PlayStation 2
+2005;Shadow of the Colossus;Action-adventure;Sony Computer Entertainment;PlayStation 2
+2007;God of War II;Action-adventure;Sony Computer Entertainment;PlayStation 2
+2008;LittleBigPlanet;Platform;Sony Computer Entertainment;PlayStation 3
+2009;Uncharted 2: Among Thieves;Action-adventure;Sony Computer Entertainment;PlayStation 3
+2012;Journey;Adventure;Sony Computer Entertainment;PlayStation 3
+2013;The Last of Us;Action-adventure;Sony Computer Entertainment;PlayStation 3
+2015;Bloodborne;Action role-playing;Sony Computer Entertainment;PlayStation 4
+1999;EverQuest;MMORPG;Sony Online Entertainment;PC
+1993;Secret of Mana;Action role-playing;Square;Super NES
+1994;Final Fantasy VI;Role-playing;Square;Super NES
+1995;Chrono Trigger;Role-playing;Square;Super NES
+1997;Final Fantasy Tactics;Tactical role-playing;Square;PlayStation
+1997;Final Fantasy VII;Role-playing;Square;PlayStation
+2001;Final Fantasy X;Role-playing;Square;PlayStation 2
+1978;Space Invaders;Shoot 'em up;Taito;Arcade
+2010;Super Meat Boy;Platform;Team Meat;Xbox 360
+1987;Double Dragon;Beat 'em up;Technos Japan;Arcade
+2012;The Walking Dead;Adventure;Telltale Games;PC,PlayStation 3,Xbox 360
+1984;Tetris;Puzzle;The Tetris Company;Electronika 60
+2003;Prince of Persia: The Sands of Time;Action-adventure;Ubisoft;PlayStation 2
+2005;Tom Clancy's Splinter Cell: Chaos Theory;Stealth;Ubisoft;Xbox
+2009;Assassin's Creed II;Action-adventure;Ubisoft;PlayStation 3,Xbox 360
+2000;Counter-Strike;First-person shooter;Valve Corporation;PC
+2004;Half-Life 2;First-person shooter;Valve Corporation;PC
+2007;Portal;Puzzle-platformer;Valve Corporation;PC,Xbox 360
+2007;Team Fortress 2;First-person shooter;Valve Corporation;PC
+2008;Left 4 Dead;First-person shooter;Valve Corporation;PC
+2011;Portal 2;Puzzle-platformer;Valve Corporation;PC,PlayStation 3,Xbox 360
+2013;Dota 2;MOBA;Valve Corporation;PC
+1996;Command & Conquer: Red Alert;Real-time strategy;Virgin Interactive;PC
+2009;Batman: Arkham Asylum;Action-adventure;Warner Bros. Interactive Entertainment;PlayStation 3,Xbox 360
+2011;Batman: Arkham City;Action-adventure;Warner Bros. Interactive Entertainment;PlayStation 3,Xbox 360
+1981;Defender;Shoot 'em up;Williams Entertainment;Arcade
+1982;Joust;Action;Williams Entertainment;Arcade
+1982;Robotron: 2084;Top-down shooter;Williams Entertainment;Arcade

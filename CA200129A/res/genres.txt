@@ -1,0 +1,32 @@
+﻿Action
+Action role-playing
+Action-adventure
+Adventure
+Beat 'em up
+City-building
+Fighting
+First-person shooter
+Kart racing
+Life simulation
+Maze
+MMORPG
+MOBA
+Platform
+Puzzle
+Puzzle-platformer
+Racing
+Real-time strategy
+Rhythm
+Role-playing
+Run and gun
+Sandbox
+Shoot 'em up
+Space simulation
+Sports
+Stealth
+Survival horror
+Tactical role-playing
+Third-person shooter
+Top-down shooter
+Turn-based strategy
+Turn-based tactics
