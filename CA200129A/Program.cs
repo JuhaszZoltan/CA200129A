@@ -100,7 +100,21 @@ namespace CA200129A
         }
         private static void F07()
         {
-            //dictionary... soon
+            Console.Write(" 7. feladat:\n\t");
+            var dic = new Dictionary<string, int>();
+            foreach (var j in jatekok)
+            {
+                if (!dic.ContainsKey(j.kiado))
+                    dic.Add(j.kiado, 1);
+                else dic[j.kiado]++;
+            }
+            var max = new KeyValuePair<string, int>("", int.MinValue);
+            foreach (var kvp in dic)
+            {
+                if (kvp.Value > max.Value) max = kvp;
+            }
+            Console.WriteLine(
+                $"A legtöbb játékkal szereplő kiadó: {max.Key} ({max.Value} játék).");
         }
         private static void F06()
         {
@@ -116,7 +130,21 @@ namespace CA200129A
         }
         private static void F05()
         {
-            //dictionary... soon
+            Console.Write(" 5. feladat:\n\t");
+            Console.Write("Igazán sikeres évek:\n\t");
+            var dic = new Dictionary<int, int>();
+            foreach (var j in jatekok)
+            {
+                if(!dic.ContainsKey(j.ev))
+                    dic.Add(j.ev, 1);
+                else dic[j.ev]++;
+            }
+            var rend = dic.OrderBy(k => k.Key);
+            foreach (var kvp in rend)
+            {
+                if (kvp.Value >= 7) Console.Write($"{kvp.Key}, ");
+            }
+            Console.Write("\n");
         }
         private static void F04()
         {
